@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Mind-Blank/static/css/main.29ed3adc.css",
+    "main.js": "/Mind-Blank/static/js/main.0a81d77b.js",
+    "static/media/game.mp3": "/Mind-Blank/static/media/game.2169d66cee0a41e85b68.mp3",
+    "static/media/intro.mp3": "/Mind-Blank/static/media/intro.c7a9d35dfd639eb03415.mp3",
+    "static/media/side_curtains.png": "/Mind-Blank/static/media/side_curtains.211142cd1144b68a2c3e.png",
+    "static/media/curtain-full.png": "/Mind-Blank/static/media/curtain-full.937c733356fc9b78e7aa.png",
+    "static/media/star-button.png": "/Mind-Blank/static/media/star-button.925b8b866caaabccbe3a.png",
+    "static/media/start-show-button.png": "/Mind-Blank/static/media/start-show-button.7eef5e7dc9d19bb1a08b.png",
+    "static/media/background.jpeg": "/Mind-Blank/static/media/background.494191d4c632c4d3759f.jpeg",
+    "static/media/speech_bubble.png": "/Mind-Blank/static/media/speech_bubble.7fc5e306f3d58ea2d9ee.png",
+    "static/media/host_crayons.png": "/Mind-Blank/static/media/host_crayons.71060e5c7f9ef7a28b62.png",
+    "static/media/host_trophy.png": "/Mind-Blank/static/media/host_trophy.f2e0c599c3bf69e8df5b.png",
+    "static/media/host.png": "/Mind-Blank/static/media/host.38e840f2eb6050dc2eef.png",
+    "static/media/WinSpeech2.png": "/Mind-Blank/static/media/WinSpeech2.7442bcc63c3bf29419bc.png",
+    "static/media/LoseSpeech1.png": "/Mind-Blank/static/media/LoseSpeech1.28cb3868d781bfa0237f.png",
+    "static/media/LoseSpeech2.png": "/Mind-Blank/static/media/LoseSpeech2.58e2b349d7c26ddc9bea.png",
+    "static/media/WinSpeech1.png": "/Mind-Blank/static/media/WinSpeech1.3c6fefddcb92af29b642.png",
+    "index.html": "/Mind-Blank/index.html",
+    "main.29ed3adc.css.map": "/Mind-Blank/static/css/main.29ed3adc.css.map",
+    "main.0a81d77b.js.map": "/Mind-Blank/static/js/main.0a81d77b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29ed3adc.css",
+    "static/js/main.0a81d77b.js"
+  ]
+}
